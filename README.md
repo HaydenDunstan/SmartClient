@@ -9,9 +9,15 @@ The Program will:
 
 The program will default to https, port 443 if unspecified, but can also use http, port 80
 
+
 Code will commpile automatically
-To run the code input one of the following lines and replace [URL] with your chosen url:
+
+**To run the code input one of the following lines and replace [URL] with your chosen url:**
+
 Linux and Mac:
+
 python3 SmartClient.py [URL]
+
 Windows:
+
 py SmartClient.py [URL]
